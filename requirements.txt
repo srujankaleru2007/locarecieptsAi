@@ -1,0 +1,8 @@
+streamlit>=1.41,<2
+ollama>=0.6.3,<1
+pandas>=2.2,<3
+Pillow>=11,<13
+PyMuPDF==1.26.7
+httpx>=0.27,<1
+pyarrow==19.0.1
+pydantic>=2.9,<3
